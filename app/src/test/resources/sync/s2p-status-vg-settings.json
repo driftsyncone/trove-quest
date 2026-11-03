@@ -1,0 +1,24 @@
+{
+  "type": "status",
+  "stopped": true,
+  "reason": "Not started yet: press Resume to allow the device",
+  "device": "stopped",
+  "armed": false,
+  "resume": "no",
+  "vg": {
+    "connected": false,
+    "mode": null,
+    "targetSpeed": null,
+    "firmware": null,
+    "battery": null,
+    "latencyMs": null,
+    "valve": null,
+    "error": null,
+    "offsetMs": 150,
+    "intensity": 80,
+    "speedLimit": 300,
+    "suction": 2
+  },
+  "script": null,
+  "timer": null
+}

@@ -1,0 +1,6 @@
+{
+  "type": "command",
+  "cmd": "close",
+  "seq": 5,
+  "screen": "screen-2"
+}

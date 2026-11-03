@@ -1,0 +1,8 @@
+{
+  "type": "vg",
+  "op": "set",
+  "offsetMs": 150,
+  "intensity": 80,
+  "speedLimit": 300,
+  "suction": 2
+}

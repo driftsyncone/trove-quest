@@ -1,0 +1,9 @@
+{
+  "type": "command",
+  "cmd": "open",
+  "seq": 2,
+  "sceneId": "456",
+  "mode": "replace",
+  "screen": "screen-2",
+  "startMs": 90000
+}

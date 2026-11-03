@@ -1,0 +1,7 @@
+{
+  "type": "command",
+  "cmd": "swap",
+  "seq": 3,
+  "sceneId": "789",
+  "screen": "screen-1"
+}

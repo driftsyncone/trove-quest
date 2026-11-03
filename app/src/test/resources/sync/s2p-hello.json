@@ -1,0 +1,7 @@
+{
+  "type": "hello",
+  "id": "AbCdEfGh",
+  "deadmanMs": 3000,
+  "heartbeatMs": 1000,
+  "serverNow": 1790000000000
+}

@@ -1,0 +1,5 @@
+{
+  "type": "timer",
+  "op": "set",
+  "minutes": 30
+}

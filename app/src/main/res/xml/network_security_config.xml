@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  HTTPS only by default. Cleartext is allowed for LAN-only test servers
+  (e.g. http://10.0.0.x:9700) because the session cookie
+  never leaves the home network there. Add your own <domain> entry to allow it.
+-->
+<network-security-config>
+  <base-config cleartextTrafficPermitted="false" />
+  <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="false">localhost</domain>
+  </domain-config>
+</network-security-config>

@@ -1,0 +1,22 @@
+{
+  "type": "state",
+  "screens": [
+    {
+      "id": "screen-1",
+      "sceneId": "123",
+      "title": "Title",
+      "positionMs": 61234,
+      "durationMs": 1800000,
+      "playing": true,
+      "rate": 1,
+      "focused": true
+    }
+  ],
+  "headset": {
+    "inOurApp": true,
+    "battery": 81,
+    "charging": false,
+    "tempC": 31.3,
+    "app": "0.2.3"
+  }
+}

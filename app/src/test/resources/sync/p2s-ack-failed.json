@@ -1,0 +1,6 @@
+{
+  "type": "ack",
+  "seq": 2,
+  "ok": false,
+  "error": "No such screen"
+}

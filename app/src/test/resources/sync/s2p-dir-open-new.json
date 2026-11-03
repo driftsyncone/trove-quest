@@ -1,0 +1,7 @@
+{
+  "type": "command",
+  "cmd": "open",
+  "seq": 1,
+  "sceneId": "123",
+  "mode": "new"
+}

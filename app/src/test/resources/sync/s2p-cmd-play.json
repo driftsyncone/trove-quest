@@ -1,0 +1,5 @@
+{
+  "type": "command",
+  "cmd": "play",
+  "screen": "screen-1"
+}

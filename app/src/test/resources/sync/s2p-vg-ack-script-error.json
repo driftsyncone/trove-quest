@@ -1,0 +1,6 @@
+{
+  "type": "vg-ack",
+  "op": "script",
+  "ok": false,
+  "error": "This scene has no such script"
+}

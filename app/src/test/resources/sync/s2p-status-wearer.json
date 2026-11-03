@@ -1,0 +1,24 @@
+{
+  "type": "status",
+  "stopped": true,
+  "reason": "Stopped by the wearer",
+  "device": "stopped",
+  "armed": false,
+  "resume": "now",
+  "vg": {
+    "connected": false,
+    "mode": null,
+    "targetSpeed": null,
+    "firmware": null,
+    "battery": null,
+    "latencyMs": null,
+    "valve": null,
+    "error": null,
+    "offsetMs": 0,
+    "intensity": 100,
+    "speedLimit": 0,
+    "suction": 0
+  },
+  "script": null,
+  "timer": null
+}

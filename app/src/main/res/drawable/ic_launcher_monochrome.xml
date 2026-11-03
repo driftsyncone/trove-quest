@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed-icon layer (one colour): the headset outline with the play glyph cut out. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:fillType="evenOdd"
+      android:pathData="M22,48h5v12h-5z M81,48h5v12h-5z M38,38 H70 A12,12 0 0 1 82,50 V58 A12,12 0 0 1 70,70 H63 Q59,62 54,62 Q49,62 45,70 H38 A12,12 0 0 1 26,58 V50 A12,12 0 0 1 38,38 Z M49.5,44 L61.5,51 L49.5,58 Z" />
+</vector>

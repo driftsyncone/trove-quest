@@ -1,0 +1,46 @@
+{
+  "type": "status",
+  "stopped": true,
+  "reason": "Not started yet: press Resume to allow the device",
+  "device": "stopped",
+  "armed": false,
+  "resume": "no",
+  "vg": {
+    "connected": false,
+    "mode": null,
+    "targetSpeed": null,
+    "firmware": null,
+    "battery": null,
+    "latencyMs": null,
+    "valve": null,
+    "error": null,
+    "offsetMs": 0,
+    "intensity": 100,
+    "speedLimit": 0,
+    "suction": 0
+  },
+  "script": {
+    "sceneId": "1",
+    "options": [
+      {
+        "id": "Default",
+        "label": "Default",
+        "default": true
+      },
+      {
+        "id": "FULL",
+        "label": "FULL",
+        "default": false
+      },
+      {
+        "id": "HALF",
+        "label": "HALF",
+        "default": false
+      }
+    ],
+    "chosen": "FULL",
+    "loading": true,
+    "error": null
+  },
+  "timer": null
+}

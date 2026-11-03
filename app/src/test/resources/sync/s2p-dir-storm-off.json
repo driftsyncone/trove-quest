@@ -1,0 +1,6 @@
+{
+  "type": "command",
+  "cmd": "storm",
+  "seq": 8,
+  "on": false
+}

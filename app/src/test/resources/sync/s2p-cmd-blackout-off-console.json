@@ -1,0 +1,7 @@
+{
+  "type": "command",
+  "cmd": "blackout",
+  "on": false,
+  "seq": 2,
+  "reason": "console"
+}

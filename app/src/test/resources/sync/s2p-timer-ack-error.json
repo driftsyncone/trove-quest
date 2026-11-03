@@ -1,0 +1,6 @@
+{
+  "type": "timer-ack",
+  "op": "extend",
+  "ok": false,
+  "error": "No timer running"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "command",
+  "cmd": "blackout",
+  "on": true,
+  "seq": 1
+}

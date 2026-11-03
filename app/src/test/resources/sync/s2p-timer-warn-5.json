@@ -1,0 +1,5 @@
+{
+  "type": "timer",
+  "event": "warn",
+  "minutesLeft": 5
+}

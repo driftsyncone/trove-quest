@@ -1,0 +1,6 @@
+{
+  "type": "vg-ack",
+  "op": "valve",
+  "ok": false,
+  "error": "name: tighter|looser"
+}

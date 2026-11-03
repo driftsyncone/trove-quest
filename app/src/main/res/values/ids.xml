@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <item type="id" name="main_panel" />
+  <item type="id" name="ghost_panel" />
+  <item type="id" name="legend_panel" />
+</resources>

@@ -1,0 +1,6 @@
+{
+  "type": "command",
+  "cmd": "seek",
+  "screen": "screen-2",
+  "deltaMs": -10000
+}

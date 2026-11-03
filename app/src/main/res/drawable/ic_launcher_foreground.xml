@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App icon foreground: a headset with a play glyph. 108 dp adaptive canvas; it stays inside the
+     66 dp safe zone (21..87) so every launcher mask shows all of it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <!-- strap stubs -->
+  <path android:fillColor="#5F7FB8" android:pathData="M22,48h5v12h-5z M81,48h5v12h-5z" />
+  <!-- visor, with the nose cut-out at the bottom -->
+  <path
+      android:fillColor="#8AB4FF"
+      android:pathData="M38,38 H70 A12,12 0 0 1 82,50 V58 A12,12 0 0 1 70,70 H63 Q59,62 54,62 Q49,62 45,70 H38 A12,12 0 0 1 26,58 V50 A12,12 0 0 1 38,38 Z" />
+  <!-- play -->
+  <path android:fillColor="#121418" android:pathData="M49.5,44 L49.5,58 L61.5,51 Z" />
+</vector>

@@ -1,0 +1,5 @@
+{
+  "type": "command",
+  "cmd": "close-all",
+  "seq": 9
+}

@@ -1,0 +1,46 @@
+{
+  "type": "state",
+  "screens": [
+    {
+      "id": "screen-1",
+      "sceneId": "123",
+      "title": "Title",
+      "positionMs": 61234,
+      "durationMs": 1800000,
+      "playing": true,
+      "rate": 1,
+      "focused": true,
+      "yawDeg": -12.5,
+      "pitchDeg": 3,
+      "distM": 2.5,
+      "widthM": 1.6,
+      "rollDeg": 0
+    },
+    {
+      "id": "screen-2",
+      "sceneId": "456",
+      "positionMs": 0,
+      "durationMs": null,
+      "playing": false,
+      "rate": 1,
+      "focused": false,
+      "yawDeg": 40,
+      "pitchDeg": -5.5,
+      "distM": 3,
+      "widthM": 1.2,
+      "rollDeg": -2.5
+    }
+  ],
+  "blackout": false,
+  "view": {
+    "yawDeg": -10,
+    "pitchDeg": 2.5,
+    "facing": "screen-1",
+    "posture": "sit"
+  },
+  "headset": {
+    "inOurApp": true,
+    "battery": 80,
+    "storm": "on, 9 tiles"
+  }
+}

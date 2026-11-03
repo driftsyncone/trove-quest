@@ -1,0 +1,18 @@
+{
+  "type": "command",
+  "cmd": "storm",
+  "seq": 7,
+  "on": true,
+  "q": "beach",
+  "tags": [
+    "11",
+    "12"
+  ],
+  "performers": [
+    "7"
+  ],
+  "studios": [
+    "3"
+  ],
+  "filter": "5"
+}

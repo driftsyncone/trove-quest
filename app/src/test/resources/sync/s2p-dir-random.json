@@ -1,0 +1,7 @@
+{
+  "type": "command",
+  "cmd": "random",
+  "seq": 6,
+  "mode": "replace",
+  "screen": "screen-1"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "status",
+  "stopped": false,
+  "reason": null,
+  "device": "playing",
+  "armed": true,
+  "resume": "no",
+  "vg": {
+    "connected": true,
+    "mode": "SYNC_SCRIPT_PLAYING",
+    "targetSpeed": 40,
+    "firmware": "7",
+    "battery": null,
+    "latencyMs": 85,
+    "valve": null,
+    "error": null,
+    "offsetMs": -50,
+    "intensity": 120,
+    "speedLimit": 500,
+    "suction": 3
+  },
+  "script": null,
+  "timer": null
+}

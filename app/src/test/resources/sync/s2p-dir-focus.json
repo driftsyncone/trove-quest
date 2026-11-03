@@ -1,0 +1,6 @@
+{
+  "type": "command",
+  "cmd": "focus",
+  "seq": 4,
+  "screen": "screen-2"
+}

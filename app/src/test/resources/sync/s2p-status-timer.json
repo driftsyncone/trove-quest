@@ -1,0 +1,27 @@
+{
+  "type": "status",
+  "stopped": false,
+  "reason": null,
+  "device": "idle",
+  "armed": false,
+  "resume": "no",
+  "vg": {
+    "connected": false,
+    "mode": null,
+    "targetSpeed": null,
+    "firmware": null,
+    "battery": null,
+    "latencyMs": null,
+    "valve": null,
+    "error": null,
+    "offsetMs": 0,
+    "intensity": 100,
+    "speedLimit": 0,
+    "suction": 0
+  },
+  "script": null,
+  "timer": {
+    "endsAt": 1790000000000,
+    "setBy": "wearer"
+  }
+}
